@@ -1,3 +1,5 @@
+## To study Ventral Nerve Cord Regeneration in E. fetida earthworms-(Ritik,Vaibhavi,)
+
 You must've  heard of a disease called paralysis, paralysis is one of the most common diseases in the world, approximately 5.4 million people are living with paralysis today. paralysis is often caused due to  damage, injury or malfunctioning of the nerve cord, resulting in loss of neural function and then leads in malfunctioning  and improper movements of muscles in various parts of the body.
 Here we are using earthworm as a model organism to study paralysis and related disorders because it can regenerate, and also it has similarities in their nervous system with humans. As we have a spinal cord earthworms have a ventral nerve cord, it is called ventral because it is present at the side from which the earthworm crawls and it is called ventral side.
 
