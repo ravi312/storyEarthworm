@@ -19,15 +19,16 @@
   - Excretory System
   - Respiratory System
 - Environmental Impact: What is their role in nature?
-- Vermipit
+- [Vermipit Design](./r2_vermpit.md)
 - [Identification and Mapping: How do we identify different species of Earthworm?](./identification.md)
-- Culturing Earthworm at home
+- [Culturing Earthworm at home](./culture.md)
 - Research: What kind of study do scientists do with earthworms? Why are these important?
   - Effect of valproic acid on regeneration
   - Electric shock to Earthworm! Why?
   - Immune system studies in Earthworm
-  - To study Ventral Nerve Cord Regeneration in E. fetida earthworms(./r4_regeneration.md)
+  - [To study Ventral Nerve Cord Regeneration in E. fetida earthworms](./r4_regeneration.md)
   - [To find the role of clitellum in regeneration of earthworms](./r5_roleOfClitellum.md)
+  - [To study gustatory response in earthworm](./r6_gustatory.md)
   - Feel free to add more topics!
 - References
 
