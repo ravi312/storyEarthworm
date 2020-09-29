@@ -26,8 +26,8 @@
   - Effect of valproic acid on regeneration
   - Electric shock to Earthworm! Why?
   - Immune system studies in Earthworm
-  - To study Ventral Nerve Cord Regeneration in E. fetida earthworms
-  - To find the role of clitellum in regeneration of earthworms
+  - To study Ventral Nerve Cord Regeneration in E. fetida earthworms(./r4_regeneration.md)
+  - [To find the role of clitellum in regeneration of earthworms](./r5_roleOfClitellum.md)
   - Feel free to add more topics!
 - References
 
